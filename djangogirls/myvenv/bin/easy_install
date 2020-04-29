@@ -1,5 +1,4 @@
-#!/Users/syasin/src/github.com/syasin-5d/djangogirls/djangogirls/myvenv/bin/python
-
+#!/home/syasin/ghq/github.com/syasin-5d/djangogirls/djangogirls/myvenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
